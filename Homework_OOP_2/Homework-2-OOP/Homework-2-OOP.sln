@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppHelper", "AppHelper\AppHelper.csproj", "{88D43E5A-980A-495C-A6ED-4A5AE13F03E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCarte", "AppCarte\AppCarte.csproj", "{400E6A3F-2CA3-403E-889A-36C6BF3EDA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStudent", "AppStudent\AppStudent.csproj", "{1A92D057-A46C-4955-9D3E-65406FC4D7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D43E5A-980A-495C-A6ED-4A5AE13F03E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D43E5A-980A-495C-A6ED-4A5AE13F03E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D43E5A-980A-495C-A6ED-4A5AE13F03E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D43E5A-980A-495C-A6ED-4A5AE13F03E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400E6A3F-2CA3-403E-889A-36C6BF3EDA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400E6A3F-2CA3-403E-889A-36C6BF3EDA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400E6A3F-2CA3-403E-889A-36C6BF3EDA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400E6A3F-2CA3-403E-889A-36C6BF3EDA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A92D057-A46C-4955-9D3E-65406FC4D7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A92D057-A46C-4955-9D3E-65406FC4D7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A92D057-A46C-4955-9D3E-65406FC4D7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A92D057-A46C-4955-9D3E-65406FC4D7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4776CFE6-6667-4864-B3EC-A6288CF789E4}
+	EndGlobalSection
+EndGlobal
